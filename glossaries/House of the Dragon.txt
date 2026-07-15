@@ -1,0 +1,119 @@
+glossaries/House of the Dragon.txt
+版本号：1.0.0
+维护者：momori
+更新时间：2026-07-15
+
+// 角色
+King Viserys I Targaryen：韦赛里斯·坦格利安一世
+Rhaenyra Targaryen：雷妮拉·坦格利安
+Daemon Targaryen：戴蒙·坦格利安
+Aegon II Targaryen：伊耿·坦格利安二世
+Aemond Targaryen：伊蒙德·坦格利安
+Helaena Targaryen：海伦娜·坦格利安
+Daeron Targaryen：戴伦·坦格利安
+Jaehaerys I Targaryen：杰赫里斯·坦格利安一世
+Rhaenys Targaryen：雷妮丝·坦格利安
+Baela Targaryen：贝拉·坦格利安
+Rhaena Targaryen：雷娜·坦格利安
+Aegon the Conqueror：征服者伊耿
+Visenya Targaryen：维桑尼亚·坦格利安
+Rhaenys Targaryen（征服者之妹）：雷妮丝·坦格利安（该条为历史人物，若剧中未出现可忽略）
+Maegor I Targaryen：梅葛·坦格利安一世
+Baelon Targaryen：贝尔隆·坦格利安
+Alyssa Targaryen：阿莱莎·坦格利安
+Corlys Velaryon：科利斯·瓦列利安
+Rhaenys Velaryon：雷妮丝·瓦列利安
+Laenor Velaryon：兰尼诺·瓦列利安
+Laena Velaryon：兰娜·瓦列利安
+Jacaerys Velaryon：杰卡里斯·瓦列利安
+Lucerys Velaryon：路斯里斯·瓦列利安
+Joffrey Velaryon：乔佛里·瓦列利安
+Vaemond Velaryon：韦蒙德·瓦列利安
+Alicent Hightower：阿莉森·海塔尔
+Otto Hightower：奥托·海塔尔
+Gwayne Hightower：格韦恩·海塔尔
+Hobert Hightower：霍伯特·海塔尔
+Criston Cole：克里斯顿·科尔
+Harrold Westerling：哈罗德·韦斯特林
+Larys Strong：拉里斯·斯特朗
+Lyonel Strong：莱昂诺·斯特朗
+Harwin Strong：哈温·斯特朗
+Lyman Beesbury：莱曼·比斯伯里
+Boremund Baratheon：博蒙德·拜拉席恩
+Borros Baratheon：博洛斯·拜拉席恩
+Jeyne Arryn：简妮·艾林
+Tyland Lannister：泰兰·兰尼斯特
+Jason Lannister：杰森·兰尼斯特
+Jasper Wylde：贾斯珀·威尔德
+Ryam Redwyne：莱安·雷德温
+Lorent Marbrand：洛伦特·马布兰德
+Steffon Darklyn：史蒂芬·达克林
+Simon Strong：西蒙·斯特朗
+Erryk Cargyll：埃里克·卡盖尔
+Arryk Cargyll：阿里克·卡盖尔
+Mellos：梅洛斯
+Orwyle：奥维尔
+Gerardys：杰拉迪斯
+Mysaria：米莎莉亚
+Alys Rivers：亚丽·河文
+Addam of Hull：亚当·赫尔
+Alyn of Hull：阿林·赫尔
+Hugh Hammer：休·汉默
+Ulf the White：乌尔夫·怀特
+
+// 龙
+Balerion：贝勒里恩
+Vhagar：瓦格哈尔
+Vermithor：沃米索尔
+Silverwing：银翼
+Syrax：叙拉克斯
+Caraxes：科拉克休
+Arrax：阿拉克斯
+Sunfyre：阳炎
+Dreamfyre：梦火
+Meleys：梅丽亚斯
+Seasmoke：海烟
+Vermax：沃马克斯
+Tyraxes：泰拉克斯
+Stormcloud：风暴云
+Sheepstealer：偷羊贼
+Grey Ghost：灰幽灵
+Cannibal：食尸者
+
+//地名
+Westeros：维斯特洛
+King's Landing：君临
+Dragonstone：龙石岛
+Driftmark：潮头岛
+Harrenhal：赫伦堡
+Blackwater Rush：黑水河
+Old Valyria：瓦雷利亚
+Essos：厄索斯
+Narrow Sea：狭海
+Seven Kingdoms：七大王国
+Casterly Rock：凯岩城
+Storm's End：风息堡
+Eyrie：鹰巢城
+Highgarden：高庭
+Sunspear：阳戟城
+Riverrun：奔流城
+Winterfell：临冬城
+Dragonpit：龙穴
+Red Keep：红堡
+Great Sept of Baelor：贝勒大圣堂
+
+//专有名词与头衔
+House of the Dragon：龙之家族
+Dance of the Dragons：血龙狂舞
+Blacks：黑党
+Greens：绿党
+Iron Throne：铁王座
+Hand of the King：国王之手
+Kingsguard：御林铁卫
+Small Council：御前会议
+High Valyrian：高等瓦雷利亚语
+Blood and Fire：血火同源
+Prince of Dragonstone：龙石岛亲王
+Lord of the Tides：潮汐之主
+Blackfyre：黑火
+Dark Sister：暗黑姐妹
