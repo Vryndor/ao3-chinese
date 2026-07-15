@@ -1,8 +1,8 @@
-glossaries/House of the Dragon.txt
-版本号：1.0.0
+版本号：1.0.1
 维护者：momori
 更新时间：2026-07-15
 
+词条
 // 角色
 King Viserys I Targaryen：韦赛里斯·坦格利安一世
 Rhaenyra Targaryen：雷妮拉·坦格利安
@@ -62,7 +62,6 @@ Alys Rivers：亚丽·河文
 Addam of Hull：船壳镇的亚当
 Hugh Hammer：休·汉默
 Ulf White：乌尔夫·怀特
-
 // 龙
 Balerion：贝勒里恩
 Vhagar：瓦格哈尔
@@ -81,7 +80,22 @@ Stormcloud：风暴云
 Sheepstealer：偷羊贼
 Grey Ghost：灰幽灵
 Cannibal：食尸者
+//专有名词与头衔
+Dance of the Dragons：血龙狂舞
+Blacks：黑党
+Greens：绿党
+Iron Throne：铁王座
+Hand of the King：国王之手
+Kingsguard：御林铁卫
+Small Council：御前会议
+High Valyrian：高等瓦雷利亚语
+Blood and Fire：血火同源
+Prince of Dragonstone：龙石岛亲王
+Lord of the Tides：潮汐之主
+Blackfyre：黑火
+Dark Sister：暗黑姐妹
 
+通用词条
 //地名
 Westeros：维斯特洛
 King's Landing：君临
@@ -103,18 +117,3 @@ Winterfell：临冬城
 Dragonpit：龙穴
 Red Keep：红堡
 Great Sept of Baelor：贝勒大圣堂
-
-//专有名词与头衔
-Dance of the Dragons：血龙狂舞
-Blacks：黑党
-Greens：绿党
-Iron Throne：铁王座
-Hand of the King：国王之手
-Kingsguard：御林铁卫
-Small Council：御前会议
-High Valyrian：高等瓦雷利亚语
-Blood and Fire：血火同源
-Prince of Dragonstone：龙石岛亲王
-Lord of the Tides：潮汐之主
-Blackfyre：黑火
-Dark Sister：暗黑姐妹
