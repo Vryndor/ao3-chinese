@@ -8,17 +8,20 @@ King Viserys I Targaryen：韦赛里斯·坦格利安一世
 Rhaenyra Targaryen：雷妮拉·坦格利安
 Daemon Targaryen：戴蒙·坦格利安
 Aegon II Targaryen：伊耿·坦格利安二世
+Aegon Targaryen：伊耿·坦格利安
 Aemond Targaryen：伊蒙德·坦格利安
 Helaena Targaryen：海伦娜·坦格利安
 Daeron Targaryen：戴伦·坦格利安
 Jaehaerys I Targaryen：杰赫里斯·坦格利安一世
+Jaehaerys Targaryen：杰赫里斯·坦格利安
 Rhaenys Targaryen：雷妮丝·坦格利安
 Baela Targaryen：贝拉·坦格利安
 Rhaena Targaryen：雷娜·坦格利安
 Aegon the Conqueror：征服者伊耿
 Visenya Targaryen：维桑尼亚·坦格利安
-Rhaenys Targaryen（征服者之妹）：雷妮丝·坦格利安（该条为历史人物，若剧中未出现可忽略）
+Rhaenys Targaryen：雷妮丝·坦格利安
 Maegor I Targaryen：梅葛·坦格利安一世
+Maegor Targaryen：梅葛·坦格利安
 Baelon Targaryen：贝尔隆·坦格利安
 Alyssa Targaryen：阿莱莎·坦格利安
 Corlys Velaryon：科利斯·瓦列利安
@@ -56,10 +59,9 @@ Orwyle：奥维尔
 Gerardys：杰拉迪斯
 Mysaria：米莎莉亚
 Alys Rivers：亚丽·河文
-Addam of Hull：亚当·赫尔
-Alyn of Hull：阿林·赫尔
+Addam of Hull：船壳镇的亚当
 Hugh Hammer：休·汉默
-Ulf the White：乌尔夫·怀特
+Ulf White：乌尔夫·怀特
 
 // 龙
 Balerion：贝勒里恩
@@ -103,7 +105,6 @@ Red Keep：红堡
 Great Sept of Baelor：贝勒大圣堂
 
 //专有名词与头衔
-House of the Dragon：龙之家族
 Dance of the Dragons：血龙狂舞
 Blacks：黑党
 Greens：绿党
