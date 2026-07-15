@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：momori
 更新时间：2026-07-15
 
@@ -15,7 +15,6 @@ Jaehaerys Targaryen：杰赫里斯·坦格利安
 Rhaenys Targaryen：雷妮丝·坦格利安
 Baela Targaryen：贝拉·坦格利安
 Rhaena Targaryen：雷娜·坦格利安
-Aegon the Conqueror：征服者伊耿
 Visenya Targaryen：维桑尼亚·坦格利安
 Rhaenys Targaryen：雷妮丝·坦格利安
 Maegor Targaryen：梅葛·坦格利安
@@ -51,6 +50,52 @@ Steffon Darklyn：史蒂芬·达克林
 Simon Strong：西蒙·斯特朗
 Erryk Cargyll：埃里克·卡盖尔
 Arryk Cargyll：阿里克·卡盖尔
+Viserys：韦赛里斯
+Rhaenyra：雷妮拉
+Daemon：戴蒙
+Aegon：伊耿
+Aemond：伊蒙德
+Helaena：海伦娜
+Daeron：戴伦
+Jaehaerys：杰赫里斯
+Rhaenys：雷妮丝
+Baela：贝拉
+Rhaena：雷娜
+Visenya：维桑尼亚
+Rhaenys：雷妮丝
+Maegor：梅葛
+Baelon：贝尔隆
+Alyssa：阿莱莎
+Corlys：科利斯
+Rhaenys：雷妮丝
+Laenor：兰尼诺
+Laena：兰娜
+Jacaerys：杰卡里斯
+Lucerys：路斯里斯
+Joffrey：乔佛里
+Vaemond：韦蒙德
+Alicent：阿莉森
+Otto：奥托
+Gwayne：格韦恩
+Hobert：霍伯特
+Criston：克里斯顿
+Harrold：哈罗德
+Larys：拉里斯
+Lyonel：莱昂诺
+Harwin：哈温
+Lyman：莱曼
+Boremund：博蒙德
+Borros：博洛斯
+Jeyne：简妮
+Tyland：泰兰
+Jason：杰森
+Jasper：贾斯珀
+Ryam：莱安
+Lorent：洛伦特
+Steffon：史蒂芬
+Simon：西蒙
+Erryk：埃里克
+Arryk：阿里克
 Mellos：梅洛斯
 Orwyle：奥维尔
 Gerardys：杰拉迪斯
