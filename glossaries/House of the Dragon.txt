@@ -1,39 +1,38 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：momori
 更新时间：2026-07-15
 
 词条
 // 角色
-Viserys：韦赛里斯
-Targaryen：坦格利安
-Rhaenyra：雷妮拉
-Daemon：戴蒙
-Aegon：伊耿
-Aemond：伊蒙德
-Helaena：海伦娜
-Daeron：戴伦
-Jaehaerys：杰赫里斯
-Rhaenys：雷妮丝
-Baela：贝拉
-Rhaena：雷娜
-Visenya：维桑尼亚
-Rhaenys：雷妮丝
-Maegor：梅葛
-Baelon：贝尔隆
-Alyssa：阿莱莎
-Corlys：科利斯
-Velaryon：瓦列利安
-Laenor：兰尼诺
-Laena：兰娜
-Jacaery：杰卡里斯
-Lucerys：路斯里斯
-Joffrey：乔佛里
-Vaemond：韦蒙德
-Alicent：阿莉森
-Hightower：海塔尔
-Otto：奥托
-Gwayne：格韦恩
-Hobert：霍伯特
+Viserys Targaryen：韦赛里斯·坦格利安
+Rhaenyra Targaryen：雷妮拉·坦格利安
+Daemon Targaryen：戴蒙·坦格利安
+Aegon Targaryen：伊耿·坦格利安
+Aemond Targaryen：伊蒙德·坦格利安
+Helaena Targaryen：海伦娜·坦格利安
+Daeron Targaryen：戴伦·坦格利安
+Jaehaerys Targaryen：杰赫里斯·坦格利安
+Rhaenys Targaryen：雷妮丝·坦格利安
+Baela Targaryen：贝拉·坦格利安
+Rhaena Targaryen：雷娜·坦格利安
+Aegon the Conqueror：征服者伊耿
+Visenya Targaryen：维桑尼亚·坦格利安
+Rhaenys Targaryen：雷妮丝·坦格利安
+Maegor Targaryen：梅葛·坦格利安
+Baelon Targaryen：贝尔隆·坦格利安
+Alyssa Targaryen：阿莱莎·坦格利安
+Corlys Velaryon：科利斯·瓦列利安
+Rhaenys Velaryon：雷妮丝·瓦列利安
+Laenor Velaryon：兰尼诺·瓦列利安
+Laena Velaryon：兰娜·瓦列利安
+Jacaerys Velaryon：杰卡里斯·瓦列利安
+Lucerys Velaryon：路斯里斯·瓦列利安
+Joffrey Velaryon：乔佛里·瓦列利安
+Vaemond Velaryon：韦蒙德·瓦列利安
+Alicent Hightower：阿莉森·海塔尔
+Otto Hightower：奥托·海塔尔
+Gwayne Hightower：格韦恩·海塔尔
+Hobert Hightower：霍伯特·海塔尔
 Criston Cole：克里斯顿·科尔
 Harrold Westerling：哈罗德·韦斯特林
 Larys Strong：拉里斯·斯特朗
@@ -57,9 +56,7 @@ Orwyle：奥维尔
 Gerardys：杰拉迪斯
 Mysaria：米莎莉亚
 Alys Rivers：亚丽·河文
-Addam of Hull：船壳镇的亚当
 Hugh Hammer：休·汉默
-Ulf White：乌尔夫·怀特
 // 龙
 Balerion：贝勒里恩
 Vhagar：瓦格哈尔
