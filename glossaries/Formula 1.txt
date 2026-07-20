@@ -31,8 +31,8 @@ Jos Verstappen = 乔斯 维斯塔潘
 Mark Webber = 马克 韦伯
 
 // F1现役/储备/青训车手
-Max Verstappen = 马克斯 维斯塔潘
 Lewis Hamilton = 刘易斯 汉密尔顿
+Max Verstappen = 马克斯 维斯塔潘
 Lando Norris = 兰多 诺里斯
 Charles Leclerc = 夏尔 勒克莱尔
 George Russell = 乔治 拉塞尔
