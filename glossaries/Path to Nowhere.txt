@@ -1,195 +1,358 @@
-维护者：V-Lipset
-版本号：1.0.6
-更新时间：2025-08-29
+版本号：1.0.0
+维护者：momori
+更新时间：2026-07-20
 
 
 词条
+// F1历史传奇车手
+Giuseppe Farina = 朱塞佩 法里纳
+Juan Manuel Fangio = 胡安 曼努埃尔 方吉奥
+Alberto Ascari = 阿尔贝托 阿斯卡里
+Mike Hawthorn = 迈克 霍索恩
+Phil Hill = 菲尔 希尔
+John Surtees = 约翰 苏尔特斯
+Jody Scheckter = 乔迪 谢克特
+Alan Jones = 阿兰 琼斯
+Keke Rosberg = 科科 罗斯伯格
+Nelson Piquet = 尼尔森 皮奎特
+Ayrton Senna = 埃尔顿 塞纳
+Nigel Mansell = 尼格尔 曼塞尔
+Alain Prost = 阿兰 普罗斯特
+Damon Hill = 达蒙 希尔
+Jacques Villeneuve = 雅克 维伦纽夫
+Mika Hakkinen = 米卡 哈基宁
+Michael Schumacher = 迈克尔 舒马赫
+Kimi Raikkonen = 基米 莱科宁
+Jenson Button = 简森 巴顿
+Sebastian Vettel = 塞巴斯蒂安 维特尔
+Nico Rosberg = 尼科 罗斯伯格
+Jules Bianchi = 朱利斯 比安奇
+Jos Verstappen = 乔斯 维斯塔潘
+Mark Webber = 马克 韦伯
 
-// 角色
-Chief：局长
-000：000
-Adela：阿黛拉
-Augustus：奥古斯特
-Angell：安吉尔
-Anne：安
-Ariel：艾瑞尔
-Bai Yi：白逸
-Bianca：毕安卡
-Cabernet：卡门奈特
-Cassia：卡西娅
-Cassian：卡兹安
-Chameleon：卡米利安
-Che：澈
-Christina：克里斯蒂娜
-Cinnabar：辰砂
-Coquelic：可可莉克
-Corso：卡斯洛
-Countess：伯爵
-Chelsea：切尔西
-Crache：科希
-Demolia：德莫莉
-Demon：迪蒙
-Deren：黛伦
-Dolly：多莉
-Donald：唐
-Dove：多芙
-Dreya：德雷雅
-Du Ruo：杜若
-Dudu：嘟嘟
-EMP：艾米潘
-Echo：艾可
-Eirene：伊琳娜
-Eleven：雷温
-Enfer：恩菲尔
-Ermes Costello：艾梅斯
-Etti：爱缇
-Eureka：优利卡
-Eve：伊芙
-F.F.：F.F.
-Faye：菲
-Flora：芙洛拉
-Garofano：加洛法诺
-Gekkabijin：昙
-Golan：戈蓝
-Graves：格芮芙
-Hamel：哈梅尔
-Hecate：赫卡蒂
-Hella：海拉
-Hestia：赫斯提亚
-Horo：赫罗
-Hypatia：伊帕希娅
-Ignis：伊格尼
-Iron：艾恩
-Jane：简
-Jasmine：茉莉
-Jelena：耶莱娜
-Joan：琼
-K.K.：蔻蔻
-Kawa-Kawa：卡瓦卡瓦
-Kelvin：开尔文
-Korryn：柯琳
-Kujo Jolyne：空条徐伦
-Kujo Jotaro：空条承太郎
-L.L.：L.L.
-Labyrinth：雷比尼斯
-Lady Pearl：珀尔夫人
-Lamia：拉弥亚
-Langley：兰利
-Letta：莱塔
-Levy：李维
-Lisa：丽莎
-Luminita：卢米尼塔
-Luvia Ray：露薇娅·蕾
-Lynn：琳
-Lysandra：黎莎洛
-Macchiato：玛奇朵
-Mantis：曼缇斯
-Matilda：玛蒂尔达
-McQueen：麦昆
-Mess：莓丝
-Milly：蜜莉
-Mira：米拉
-Moore：摩尔
-Mr. Fox：福克斯先生
-NOX：诺克斯
-Narciso Anastasia：安那苏
-Nightingale Adjutant = 夜莺 副官
-Ninety-Nine：九十九
-Nino：妮诺
-Oak Casket：橡木匣
-Oliver：奥利弗
-OwO：嗷呜
-Pacassi：帕加茜
-Parfait：芭·菲
-Peggy：佩姬
-Pepper：胡椒
-Pine：派因
-Poffy：啵啡
-Pricilla：普希拉
-Pylgia：派尔琪雅
-Rahu：罗睺
-Raven：渡鸦
-Rise：瑞思
-Roulecca：露莉艾卡
-Serpent：娜恰
-Shalom：瑟琳
-Shawn：肖恩
-Shin：源津
-Shrooma：舒鲁玛
-Siglinde：希格林德
-Stargazer：观星者
-Sumire：堇
-Summer：夏音
-Synex：西涅克斯
-Tetra：泰特拉
-Thalia：塔利娅
-Thani：萨妮
-Thistle：蓟
-Uni：尤尼
-Vanilla：瓦尼菈
-Vautour Bleu：蓝鹫
-Vautour：蓝鹫
-Victoria：维多利亚
-Weather Forecast：天气预报
-Wendy：温蒂
-Wolverine：狼獾
-Wuhuanzi：无患子
-Xu：煦
-Yanyan：烟烟
-Yao：曜
-Yingying：萦萦
-Yugu：玉骨
-Zephyr：泽斐尔
-Zoya：卓娅
-Elvira Stewart = 艾尔维拉·斯图尔特
-El：艾尔
-Sable：赛泊尔
+// F1现役/储备/青训车手
+Max Verstappen = 马克斯 维斯塔潘
+Lewis Hamilton = 刘易斯 汉密尔顿
+Lando Norris = 兰多 诺里斯
+Charles Leclerc = 夏尔 勒克莱尔
+George Russell = 乔治 拉塞尔
+Oscar Piastri = 奥斯卡 皮亚斯特里
+Andrea Kimi Antonelli = 安德烈亚 基米 安东内利
+Fernando Alonso = 费尔南多 阿隆索
+Sergio Perez = 塞尔吉奥 佩雷兹
+Valtteri Bottas = 瓦尔特里 博塔斯
+Pierre Gasly = 皮埃尔 加斯利
+Esteban Ocon = 埃斯特班 奥康
+Oliver Bearman = 奥利弗 贝尔曼
+Lance Stroll = 兰斯 斯特罗尔
+Alexander Albon = 亚历山大 阿尔本
+Carlos Sainz = 卡洛斯 塞恩斯
+Nico Hulkenberg = 尼科 霍肯伯格
+Gabriel Bortoleto = 加布里埃尔 博托莱托
+Isack Hadjar = 伊萨克 哈贾尔
+Liam Lawson = 利亚姆 劳森
+Franco Colapinto = 弗兰科 科拉平托
+Arvid Lindblad = 阿维德 林德布拉德
+Yuki Tsunoda = 角田 裕毅
+Zhou Guanyu = 周 冠宇
+Logan Sargeant = 洛根 萨金特
+Daniel Ricciardo = 丹尼尔 里卡多
 
-// 组织和地点
-Dis City：狄斯城
-DisCity：狄斯城
-Syndicate：辛迪加
-Salva Hospital：彼岸诊所
-Minos Bureau of Crisis Control：米诺斯危机管理局
-Ninth：第九
-9th：第九
-Quinn：奎恩
-Eastern：东洲
-Paradeisos：上庭
-Legion：军团
+// 车手亲友及WAG
+Kelly Piquet = 凯莉 皮奎特
+Sophie Kumpen = 苏菲 库彭
+Penelope Verstappen = 佩内洛普 维斯塔潘
+Lily = 莉莉
+Alexandra = 亚历山德拉
+Lorenzo Leclerc = 洛伦佐 勒克莱尔
+Arthur Leclerc = 阿蒂尔 勒克莱尔
+Max Fewtrell = 马克斯 菲特雷尔
+Oli = 奥利
+Flo = 芙洛
+Cisca = 希丝卡
+Hattie = 哈蒂
+Edie = 伊迪
+Mae = 梅
+Kim Kardashian = 金 卡戴珊
+Nicole Scherzinger = 妮可 舒辛格
+Carmen = 卡门
+Rebecca = 瑞贝卡
+LilyHe = 何沐妮
+Margarida Corceiro = 玛格丽达 科塞罗
 
-// 概念
-Sun Crow：金乌
-Mecrsta：幽冕
-Endura：坚韧
-Fury：狂暴
-Umbra：诡秘
-Reticle：精准
-Arcane：异能
-Catalyst：启迪
-Tendency：特化
+// 车队全称
+McLaren：迈凯伦
+Mercedes：梅赛德斯
+Red Bull Racing：红牛车队
+Ferrari：法拉利
+Scuderia Ferrari：法拉利跃马车队
+Aston Martin：阿斯顿·马丁
+Alpine：阿尔派
+Williams：威廉姆斯
+Haas：哈斯车队
+Racing Bulls：小红牛
+Audi：奥迪
+Cadillac：凯迪拉克
+Alfa Romeo：阿尔法·罗密欧
+Renault：雷诺
+Porsche：保时捷
 
-Franc：芙兰克
-Cavendish：卡文迪许
-Mad Shear：剪疯子
-Mentor：业师
+// 车队管理层、工程师、赛事负责人
+Christian Horner = 克里斯蒂安 霍纳
+Gianpiero Lambiase = 吉安皮耶罗 兰比亚塞
+Hannah Schmitz = 汉娜 施米茨
+Helmut Marko = 赫尔穆特 马尔科
+Pierre Waché = 皮埃尔 瓦谢
+Laurent Mekies = 劳伦特 梅基斯
+Frédéric Vasseur = 弗雷德里克 瓦塞尔
+Mattia Binotto = 马蒂亚 比诺托
+Toto Wolff = 托托 沃尔夫
+James Allison = 詹姆斯 艾利森
+Mike Elliott = 迈克 艾略特
+Zak Brown = 扎克 布朗
+Andrea Stella = 安德烈亚 斯特拉
+Peter Prodromou = 彼得 普罗德罗穆
+Lawrence Stroll = 劳伦斯 斯特罗尔
+Flavio Briatore = 弗拉维奥 布里亚托利
+Oliver Oakes = 奥利弗 奥克斯
+Bruno Famin = 布鲁诺 法明
+James Vowles = 詹姆斯 沃尔斯
+Jost Capito = 约斯特 卡皮托
+Gene Haas = 吉恩 哈斯
+Ayao Komatsu = 小松 礼雄
+Jonathan Wheatley = 乔纳森 惠特利
+Franz Tost = 弗朗茨 托斯特
+Peter Bayer = 彼得 拜耳
+Ross Brawn = 罗斯 布朗
+Stefano Domenicali = 斯特法诺 多梅尼卡利
+Nikolas Tombazis = 尼古拉斯 托姆巴齐斯
+Steve Nielsen = 史蒂夫 尼尔森
+Herbie Blash = 赫比 布拉什
+Niels Wittich = 尼尔斯 维蒂希
+Eduardo Freitas = 爱德华多 弗雷塔斯
+Michael Masi = 迈克尔 马西
+Charlie Whiting = 查理 怀廷
 
+// 赛事解说、媒体从业者
+Laura Winter = 劳拉·温特
+Lawrence Barretto = 劳伦斯·巴雷托
+Alex Jacques = 亚历克斯·雅克
+Jolyon Palmer = 乔利恩·帕尔默
+Laura Winter = 劳拉·温特
+Lawrence Barretto = 劳伦斯·巴雷托
+Alex Jacques = 亚历克斯·雅克
+Jolyon Palmer = 乔利恩·帕尔默
+Laura Winter = 劳拉·温特
+Lawrence Barretto = 劳伦斯·巴雷托
+Alex Jacques = 亚历克斯·雅克
+Jolyon Palmer = 乔利恩·帕尔默
+Jonathan Noble = 乔纳森·诺布尔
+Stuart Codling = 斯图尔特·科德林
+
+// 赛道完整官方名称
+Albert Park Circuit：阿尔伯特公园赛道
+Autodromo Enzo e Dino Ferrari：恩佐和迪诺·法拉利赛道
+Autodromo Hermanos Rodríguez：埃尔马诺斯·罗德里格斯赛道
+Autodromo Internazionale del Mugello：穆杰罗国际赛道
+Autodromo Nazionale Monza：蒙扎国家赛车场
+Bahrain International Circuit：巴林国际赛车场
+Baku City Circuit：巴库城市赛道
+Circuit Gilles Villeneuve：吉尔·维伦纽夫赛道
+Circuit de Barcelona-Catalunya：巴塞罗那-加泰罗尼亚赛道
+Circuit de Monaco：摩纳哥赛道
+Circuit de Spa-Francorchamps：斯帕-弗朗科尔尚赛道
+Circuit of the Americas：美洲赛道
+Hungaroring：亨格罗林赛道
+Intercity Istanbul Park：伊斯坦布尔公园赛道
+Jeddah Corniche Circuit：吉达滨海赛道
+Las Vegas Strip Circuit：拉斯维加斯大道赛道
+Losail International Circuit：卢塞尔国际赛道
+Marina Bay Street Circuit：滨海湾街道赛道
+Miami International Autodrome：迈阿密国际赛车场
+Red Bull Ring：红牛环赛道
+Shanghai International Circuit：上海国际赛车场
+Silverstone Circuit：银石赛道
+Sochi Autodrom：索契赛车场（现已停用）
+Suzuka Circuit：铃鹿赛道
+Yas Marina Circuit：亚斯码头赛道
+Zandvoort Circuit：赞德沃特赛道
 
 通用词条
+// 赛道弯道名称
+Abbey：阿比弯
+Farm：农场弯
+Village：村庄弯
+The Loop：环形弯
+Aintree：安特里弯
+Brooklands：布鲁克兰兹弯
+Luffield：拉菲尔德弯
+Woodcote：伍德科特弯
+Copse：科普斯弯
+Maggotts：马吉茨弯
+Becketts：贝克茨弯
+Chapel：教堂弯
+Stowe：斯托弯
+Vale：维尔弯
+Club：俱乐部弯
+Hamilton Straight：汉密尔顿直道
+Wellington Straight：惠灵顿直道
+Hangar Straight：机库直道
+National Pit Straight：国家维修区直道
+La Source：拉索斯发卡弯
+Eau Rouge：红水弯
+Raidillon：拉迪永弯
+Kemmel Straight：凯梅尔直道
+Les Combes：莱孔布弯
+Bruxelles：布鲁塞尔弯
+Speaker's Corner：演讲者弯
+Pouhon：普洪弯
+Fagnes：法涅弯
+Stavelot：斯塔沃洛弯
+Blanchimont：布朗希蒙弯
+Bus Stop Chicane：公交站减速弯
+Rettifilo：第一减速弯
+Curva Grande：大弯
+Roggia：罗贾减速弯
+Lesmo 1：第一莱斯莫弯
+Lesmo 2：第二莱斯莫弯
+Serraglio：塞拉利奥弯
+Ascari：阿斯卡里减速弯
+Parabolica：帕拉波利卡弯
+Alboreto：阿尔博雷托弯
+Sainte Devote：圣德沃特弯
+Beau Rivage：美景坡
+Massenet：马斯内弯
+Casino：赌场弯
+Mirabeau Haute：米拉波上弯
+Grand Hotel Hairpin：大酒店发卡弯
+Fairmont Hairpin：费尔蒙发卡弯
+Mirabeau Bas：米拉波下弯
+Portier：港口弯
+Tunnel：隧道
+Nouvelle Chicane：新减速弯
+Tabac：烟草弯
+Piscine：游泳池弯
+La Rascasse：拉斯卡斯弯
+Antony Noghès：安东尼·诺盖斯弯
+First Curve：第一弯
+S Curves：S弯
+Dunlop Curve：邓禄普弯
+Degner 1：第一德格纳弯
+Degner 2：第二德格纳弯
+Hairpin：发卡弯
+Spoon Curve：汤匙弯
+130R：130R弯
+Casio Triangle：卡西欧减速弯
+Castrol Edge：嘉实多弯
+Remus：雷穆斯弯
+Schlossgold：施洛斯戈尔德弯
+Rauch：劳赫弯
+Würth：伍尔特弯
+Michael Schumacher Curve：迈克尔·舒马赫弯
+University：大学弯
+Castle Section：城堡弯
+Big Red：大红弯
+Esses：S弯组合
+Carousel：大回旋弯
+Snail：蜗牛弯
+Back Straight：后直道
+Turns 22–23–24：高速S弯
+Final Corner：最后一弯
 
-Hypercube：异方晶
-Magic：异能
-Agency：机关
-Sinner：禁闭者
-Shepherd：牧羊人
-Shackles：枷锁
-DisCoin：狄斯币
-Schorl：黑石英
-Prime Minister：议长
-Adjutant：副官
+// F1专业赛车术语
+Clear Air：干净气流
+Dirty air：乱流
+Backmarker：被套圈车手
+Cooldown Room：冷却室
+Paddock：围场
+Pit Lane：维修区通道
+Pit Stop：进站
+Pit Wall：维修区墙
+Pole Position：杆位
+Safety Car：安全车
+Virtual Safety Car：虚拟安全车
+Intermediate Tyre：半雨胎
+Wet Tyre：雨胎
+Black and White Flag：黑白旗
+Super Licence：超级驾照
+Marshal：赛道马修
+Hole Shot：领先过弯
+dirty side：脏侧
+parc fermé：封闭停车区
+
+//昵称
+max：马克斯
+lewis：刘易斯
+charles：夏尔
+lando：兰多
+george：乔治
+carlos：卡洛斯
+fernando：阿隆索
+checo：佩雷兹
+oscar：奥斯卡
+daniel：丹尼尔
+alex：阿尔本
+yuki：角田
+
+// 围场同人通用词汇
+Podium：领奖台
+Grid：发车格
+Teammate：队友
+Reserve Driver：储备车手
+Team Principal：车队领队
+Rookie：新秀车手
+Junior：青训车手
+Free Practice：自由练习
+Qualifying：排位赛
+Sprint Race：冲刺赛
+Tyre Compound：轮胎配方
+Grid Kid：围场小孩
+
+// F1梗
+Papaya Rules：木瓜规则
+yoyo racing：溜溜球赛车
+Silver Arrows：银箭
+Lift and Coast Championship：收油滑行大奖赛
+Divebomb：鱼雷式超车
+Ground Effect Era：地效时代
+Cost Cap Era：预算帽时代
+
+// 关联赛事
+Indy500：印第500
+24 Heures du Mans：勒芒24小时耐力赛
+WEC：世界耐力锦标赛
+rallying：拉力赛
 
 禁翻词条
+WDC
+WCC
+DRS
+Jimmy’z
+MK
+Sass
+undercut
+overcut
+PTW
+GP
+FP1
+FP2
+FP3
+Q1
+Q2
+Q3
+PU
 
-MBCC
-EDGE
-HUSH
+正则表达式
+\bmax(?:ie|y)?\b：马克斯
+\bmad\s*max\b：马克斯
+\blando+\b：兰多
+\blandito\b：兰多
+\bchar(?:les|lie)?\b：夏尔
+\blew(?:is)?\b：刘易斯
+\bruss?ell\b：拉塞尔
+\bgeorg(?:e|ie)\b：乔治
+\bcarlo+s\b：卡洛斯
+\bfernando\b：阿隆索
+\bcheco\b：佩雷兹
+\byuki\b：角田
+\bzhou\b：周冠宇
