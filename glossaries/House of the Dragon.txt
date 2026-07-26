@@ -1,6 +1,6 @@
-版本号：1.1.0
+版本号：1.1.1
 维护者：momori
-更新时间：2026-07-20
+更新时间：2026-07-27
 
 词条
 // 坦格利安家族
@@ -19,8 +19,9 @@ Visenya Targaryen = 维桑尼亚·坦格利安
 Maegor Targaryen = 梅葛·坦格利安
 Baelon Targaryen = 贝尔隆·坦格利安
 Alyssa Targaryen = 阿莱莎·坦格利安
-Jaehaerys I Targaryen = 杰赫里斯一世·坦格利安
-Viserys I Targaryen = 韦赛里斯一世·坦格利安
+Jaehaerys Targaryen = 杰赫里斯·坦格利安
+Viserys Targaryen = 韦赛里斯·坦格利安
+Jaehaera Targaryen = 杰赫妮拉·坦格利安
 
 // 瓦列利安家族
 Corlys Velaryon = 科利斯·瓦列利安
@@ -61,6 +62,7 @@ Borros Baratheon = 博洛斯·拜拉席恩
 Jeyne Arryn = 简妮·艾林
 Tyland Lannister = 泰兰·兰尼斯特
 Jason Lannister = 杰森·兰尼斯特
+Cregan Stark = 克雷根·史塔克
 
 通用词条
 // 大陆与城邦地名
@@ -84,6 +86,7 @@ Highgarden：高庭
 Sunspear：阳戟城
 Riverrun：奔流城
 Winterfell：临冬城
+Oldtown：旧镇
 
 // 巨龙名称
 Balerion：贝勒里恩
@@ -120,8 +123,6 @@ Blackfyre：黑火
 Dark Sister：暗黑姐妹
 Aegon the Conqueror：征服者伊耿
 Queen Consort：王后
-Princess：公主
-Prince：王子
 Lord Protector：护国主
 Master of Ships：海政大臣
 Master of Coin：财政大臣
@@ -129,12 +130,35 @@ Master of Laws：法务大臣
 Master of Whisperers：情报总管
 
 // 世界观通用设定（同人高频）
+Valyrian：瓦雷利亚语
 Targaryen：坦格利安血脉
 Dragon Rider：龙骑士
 Dragonlord：龙家领主
 Valyrian Steel：瓦雷利亚钢
 Prophecy of the Prince That Was Promised：预言中的王子
 Conquest：征服战争
+
+//高等瓦雷利亚语：
+Mumuña：外祖母
+kepāzma：外祖父
+Muñazma：祖母
+kekepa：祖父
+talar：女儿
+ābra：女人
+vala：男人
+trēsy：儿子
+velma：姑妈
+nãmar：姑妈
+iāpa：舅舅
+Qȳbor：舅舅
+Taoba：男孩
+Muña：母亲
+Kepa：父亲
+Mandia：姐姐
+lēkia：哥哥
+Hāedar：妹妹
+Valonqar：弟弟
+Rytsas：你好
 
 禁翻词条
 Valyria
