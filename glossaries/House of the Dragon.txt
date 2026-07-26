@@ -1,4 +1,4 @@
-版本号：1.1.1
+版本号：1.1.2
 维护者：momori
 更新时间：2026-07-27
 
@@ -129,7 +129,7 @@ Master of Coin：财政大臣
 Master of Laws：法务大臣
 Master of Whisperers：情报总管
 
-// 世界观通用设定（同人高频）
+// 世界观通用设定
 Valyrian：瓦雷利亚语
 Targaryen：坦格利安血脉
 Dragon Rider：龙骑士
@@ -159,11 +159,9 @@ lēkia：哥哥
 Hāedar：妹妹
 Valonqar：弟弟
 Rytsas：你好
+Dracarys：龙焰
 
 禁翻词条
-Valyria
-Valyrian
-Dracarys
 Targ
 Vel
 KG
