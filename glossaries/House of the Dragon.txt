@@ -90,6 +90,26 @@ Sunspear：阳戟城
 Riverrun：奔流城
 Winterfell：临冬城
 Oldtown：旧镇
+High Tide：高潮城
+Spicetown：香料镇
+Hull：船壳镇
+Blackwater Bay：黑水湾
+The Stepstones：石阶列岛
+The Vale：谷地
+The Riverlands：河间地
+The North：北境
+The Westerlands：西境
+The Reach：河湾地
+The Stormlands：风暴地
+Dorne：多恩
+The Iron Islands：铁群岛
+Runestone：符石城
+Pyke：派克城
+Blackhaven：黑港城
+The Crag：峭岩城
+Raventree Hall：鸦树城
+Stone Hedge：石篱城
+Castleton：卡斯尔顿村
 
 // 巨龙名称
 Balerion：贝勒里恩
@@ -131,6 +151,7 @@ Master of Whisperers：情报总管
 Targaryen：坦格利安血脉
 Dragon Rider：龙骑士
 Dragonlord：龙家领主
+Driftwood Throne：浮木王座
 
 //高等瓦雷利亚语：
 Mumuña：外祖母
@@ -161,12 +182,11 @@ valzȳrys：丈夫
 lykirī：冷静
 
 禁翻词条
-Targ
-Vel
-KG
-SC
-OTK
-PTWP
+Jace
+Joff
+Luke
+Vis
+Egg
 omega
 beta
 alpha
