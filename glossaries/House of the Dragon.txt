@@ -1,4 +1,4 @@
-版本号：1.1.2
+版本号：1.1.3
 维护者：momori
 更新时间：2026-07-27
 
@@ -64,6 +64,10 @@ Tyland Lannister = 泰兰·兰尼斯特
 Jason Lannister = 杰森·兰尼斯特
 Cregan Stark = 克雷根·史塔克
 
+//世界观通用设定
+Blacks：黑党
+Greens：绿党
+
 通用词条
 // 大陆与城邦地名
 Westeros：维斯特洛
@@ -107,10 +111,8 @@ Sheepstealer：偷羊贼
 Grey Ghost：灰幽灵
 Cannibal：食尸者
 
-// 王室头衔、势力、标志性武器
+// 世界观通用设定
 Dance of the Dragons：血龙狂舞
-Blacks：黑党
-Greens：绿党
 Iron Throne：铁王座
 Hand of the King：国王之手
 Kingsguard：御林铁卫
@@ -122,21 +124,14 @@ Lord of the Tides：潮汐之主
 Blackfyre：黑火
 Dark Sister：暗黑姐妹
 Aegon the Conqueror：征服者伊耿
-Queen Consort：王后
 Lord Protector：护国主
 Master of Ships：海政大臣
 Master of Coin：财政大臣
 Master of Laws：法务大臣
 Master of Whisperers：情报总管
-
-// 世界观通用设定
-Valyrian：瓦雷利亚语
 Targaryen：坦格利安血脉
 Dragon Rider：龙骑士
 Dragonlord：龙家领主
-Valyrian Steel：瓦雷利亚钢
-Prophecy of the Prince That Was Promised：预言中的王子
-Conquest：征服战争
 
 //高等瓦雷利亚语：
 Mumuña：外祖母
@@ -151,7 +146,9 @@ velma：姑妈
 nãmar：姑妈
 iāpa：舅舅
 Qȳbor：舅舅
-Taoba：男孩
+mandiana：侄子
+Taoba：小子
+Taobus：小子
 Muña：母亲
 Kepa：父亲
 Mandia：姐姐
@@ -160,6 +157,9 @@ Hāedar：妹妹
 Valonqar：弟弟
 Rytsas：你好
 Dracarys：龙焰
+valzȳrys：丈夫
+ābrazȳrys：妻子
+lykirī：冷静
 
 禁翻词条
 Targ
@@ -168,6 +168,9 @@ KG
 SC
 OTK
 PTWP
+omega
+beta
+alpha
 
 正则表达式
 // 角色外号匹配
@@ -177,11 +180,3 @@ PTWP
 \bLord of the Hightower\b: 海塔尔领主
 // 复数统一匹配
 \bKingsguard(s)?\b: 御林铁卫
-\bDragon(s)?\b: 龙
-\bPrince(s)?\b: 王子
-\bPrincess(es)?\b: 公主
-Winterfell：临冬城
-Dragonpit：龙穴
-Red Keep：红堡
-Great Sept of Baelor：贝勒大圣堂
-Aegon the Conqueror：征服者伊耿
