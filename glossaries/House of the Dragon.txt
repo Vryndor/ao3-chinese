@@ -1,4 +1,4 @@
-版本号：1.1.3
+版本号：1.1.4
 维护者：momori
 更新时间：2026-07-27
 
@@ -11,7 +11,6 @@ Aegon Targaryen = 伊耿·坦格利安
 Aemond Targaryen = 伊蒙德·坦格利安
 Helaena Targaryen = 海伦娜·坦格利安
 Daeron Targaryen = 戴伦·坦格利安
-Jaehaerys Targaryen = 杰赫里斯·坦格利安
 Rhaenys Targaryen = 雷妮丝·坦格利安
 Baela Targaryen = 贝拉·坦格利安
 Rhaena Targaryen = 雷娜·坦格利安
@@ -20,8 +19,8 @@ Maegor Targaryen = 梅葛·坦格利安
 Baelon Targaryen = 贝尔隆·坦格利安
 Alyssa Targaryen = 阿莱莎·坦格利安
 Jaehaerys Targaryen = 杰赫里斯·坦格利安
-Viserys Targaryen = 韦赛里斯·坦格利安
 Jaehaera Targaryen = 杰赫妮拉·坦格利安
+Viserys Targaryen = 韦赛里斯·坦格利安
 
 // 瓦列利安家族
 Corlys Velaryon = 科利斯·瓦列利安
