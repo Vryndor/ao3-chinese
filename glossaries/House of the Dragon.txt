@@ -1,6 +1,6 @@
-版本号：1.1.5
+版本号：1.1.6
 维护者：momori
-更新时间：2026-07-27
+更新时间：2026-07-29
 
 词条
 // 坦格利安家族
@@ -152,6 +152,8 @@ Targaryen：坦格利安血脉
 Dragon Rider：龙骑士
 Dragonlord：龙家领主
 Driftwood Throne：浮木王座
+saddle：龙鞍
+moontea：月茶
 
 //高等瓦雷利亚语：
 Mumuña：外祖母
@@ -187,6 +189,9 @@ Joff
 Luke
 Vis
 Egg
+Nyra
+Mond
+Luce
 omega
 beta
 alpha
