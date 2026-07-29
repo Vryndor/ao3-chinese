@@ -1,4 +1,4 @@
-版本号：1.1.6
+版本号：1.1.7
 维护者：momori
 更新时间：2026-07-29
 
@@ -31,18 +31,20 @@ Jacaerys Velaryon = 杰卡里斯·瓦列利安
 Lucerys Velaryon = 路斯里斯·瓦列利安
 Joffrey Velaryon = 乔佛里·瓦列利安
 Vaemond Velaryon = 韦蒙德·瓦列利安
+Addam Velaryon = 亚当·瓦列利安
 
 // 海塔尔家族
 Alicent Hightower = 阿莉森·海塔尔
 Otto Hightower = 奥托·海塔尔
-Gwayne Hightower = 格韦恩·海塔尔
+Gwayne Hightower = 加尔温·海塔尔
 Hobert Hightower = 霍伯特·海塔尔
+Ormund Hightower = 蒙德·海塔尔
 
-// 斯特朗家族
-Larys Strong = 拉里斯·斯特朗
-Lyonel Strong = 莱昂诺·斯特朗
-Harwin Strong = 哈温·斯特朗
-Simon Strong = 西蒙·斯特朗
+// 斯壮家族
+Larys Strong = 拉里斯·斯壮
+Lyonel Strong = 莱昂诺·斯壮
+Harwin Strong = 哈尔温·斯壮
+Simon Strong = 西蒙·斯壮
 
 // 御林铁卫、宫廷官员
 Criston Cole = 克里斯顿·科尔
@@ -58,10 +60,13 @@ Arryk Cargyll = 阿里克·卡盖尔
 // 各大领主贵族
 Boremund Baratheon = 博蒙德·拜拉席恩
 Borros Baratheon = 博洛斯·拜拉席恩
+Aemma Arryn = 艾玛·艾林
 Jeyne Arryn = 简妮·艾林
 Tyland Lannister = 泰兰·兰尼斯特
 Jason Lannister = 杰森·兰尼斯特
 Cregan Stark = 克雷根·史塔克
+Rickon Stark = 瑞肯·史塔克
+Rhea Royce = 雷娅·罗伊斯
 
 //世界观通用设定
 Blacks：黑党
@@ -110,6 +115,7 @@ The Crag：峭岩城
 Raventree Hall：鸦树城
 Stone Hedge：石篱城
 Castleton：卡斯尔顿村
+the High Tower：参天塔
 
 // 巨龙名称
 Balerion：贝勒里恩
