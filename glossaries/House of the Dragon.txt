@@ -1,6 +1,6 @@
-版本号：1.1.7
+版本号：1.1.8
 维护者：momori
-更新时间：2026-07-29
+更新时间：2026-08-01
 
 词条
 // 坦格利安家族
@@ -160,6 +160,8 @@ Dragonlord：龙家领主
 Driftwood Throne：浮木王座
 saddle：龙鞍
 moontea：月茶
+Prince：王子
+Princess：公主
 
 //高等瓦雷利亚语：
 Mumuña：外祖母
