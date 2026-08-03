@@ -1,6 +1,6 @@
-版本号：1.1.8
+版本号：1.2.0
 维护者：momori
-更新时间：2026-08-01
+更新时间：2026-08-03
 
 词条
 // 坦格利安家族
@@ -21,6 +21,9 @@ Alyssa Targaryen = 阿莱莎·坦格利安
 Jaehaerys Targaryen = 杰赫里斯·坦格利安
 Jaehaera Targaryen = 杰赫妮拉·坦格利安
 Viserys Targaryen = 韦赛里斯·坦格利安
+Aerion Targaryen = 伊利昂·坦格利安
+Maekar Targaryen = 梅卡·坦格利安
+Baelor Targaryen = 贝勒·坦格利安
 
 // 瓦列利安家族
 Corlys Velaryon = 科利斯·瓦列利安
@@ -116,6 +119,7 @@ Raventree Hall：鸦树城
 Stone Hedge：石篱城
 Castleton：卡斯尔顿村
 the High Tower：参天塔
+Summerhall：盛夏厅
 
 // 巨龙名称
 Balerion：贝勒里恩
@@ -162,6 +166,9 @@ saddle：龙鞍
 moontea：月茶
 Prince：王子
 Princess：公主
+Trial of Seven：七子审判
+Brightflame：明焰
+The Great Spring Sickness：春季大瘟疫
 
 //高等瓦雷利亚语：
 Mumuña：外祖母
