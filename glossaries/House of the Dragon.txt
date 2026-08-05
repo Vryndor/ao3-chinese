@@ -1,6 +1,6 @@
-版本号：1.2.0
+版本号：1.2.1
 维护者：momori
-更新时间：2026-08-03
+更新时间：2026-08-05
 
 词条
 // 坦格利安家族
@@ -120,6 +120,7 @@ Stone Hedge：石篱城
 Castleton：卡斯尔顿村
 the High Tower：参天塔
 Summerhall：盛夏厅
+the wall：绝境长城
 
 // 巨龙名称
 Balerion：贝勒里恩
@@ -169,6 +170,7 @@ Princess：公主
 Trial of Seven：七子审判
 Brightflame：明焰
 The Great Spring Sickness：春季大瘟疫
+the solar：书房
 
 //高等瓦雷利亚语：
 Mumuña：外祖母
@@ -215,7 +217,7 @@ alpha
 // 角色外号匹配
 \bThe Rogue Prince\b: 浪荡王子（戴蒙·坦格利安）
 \bThe Realm's Delight\b: 王国之光（雷妮拉·坦格利安）
-\bOne-Eyed Prince\b: 独眼王子（伊蒙德·坦格利安）
+\bOne-Eyed Prince\b: 独眼王子
 \bLord of the Hightower\b: 海塔尔领主
 // 复数统一匹配
 \bKingsguard(s)?\b: 御林铁卫
