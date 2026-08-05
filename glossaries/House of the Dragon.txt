@@ -1,4 +1,4 @@
-版本号：1.2.1
+版本号：1.2.2
 维护者：momori
 更新时间：2026-08-05
 
@@ -165,8 +165,6 @@ Dragonlord：龙家领主
 Driftwood Throne：浮木王座
 saddle：龙鞍
 moontea：月茶
-Prince：王子
-Princess：公主
 Trial of Seven：七子审判
 Brightflame：明焰
 The Great Spring Sickness：春季大瘟疫
@@ -213,7 +211,12 @@ omega
 beta
 alpha
 
-正则表达式
+正则表达
+//称谓表达
+\bPrince\s+(\w+)\b: $1王子
+\bPrincess\s+(\w+)\b: $1公主
+\bSer\s+(\w+)\b: $1爵士
+
 // 角色外号匹配
 \bThe Rogue Prince\b: 浪荡王子（戴蒙·坦格利安）
 \bThe Realm's Delight\b: 王国之光（雷妮拉·坦格利安）
@@ -221,3 +224,5 @@ alpha
 \bLord of the Hightower\b: 海塔尔领主
 // 复数统一匹配
 \bKingsguard(s)?\b: 御林铁卫
+\b[Bb]astards?\b: 私生子
+
