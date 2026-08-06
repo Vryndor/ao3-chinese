@@ -1,6 +1,7 @@
-版本号：1.2.3
+版本号：1.3.0
 维护者：momori
 更新时间：2026-08-06
+
 
 词条
 // 坦格利安家族
@@ -63,6 +64,8 @@ Lorent Marbrand = 洛伦特·马布兰德
 Steffon Darklyn = 史蒂芬·达克林
 Erryk Cargyll = 埃里克·卡盖尔
 Arryk Cargyll = 阿里克·卡盖尔
+Dunk：邓肯
+Duncan：邓肯
 
 // 各大领主贵族
 Boremund Baratheon = 博蒙德·拜拉席恩
@@ -74,6 +77,7 @@ Jason Lannister = 杰森·兰尼斯特
 Cregan Stark = 克雷根·史塔克
 Rickon Stark = 瑞肯·史塔克
 Rhea Royce = 雷娅·罗伊斯
+Lyonel Baratheon：莱昂诺·拜拉席恩
 
 //世界观通用设定
 Blacks：黑党
