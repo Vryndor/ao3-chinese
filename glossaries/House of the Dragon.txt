@@ -127,6 +127,7 @@ Stone Hedge：石篱城
 Castleton：卡斯尔顿村
 the Hightower：参天塔
 Summerhall：盛夏厅
+the Wall：绝境长城
 
 //自由城邦及相关表达
 Braavos: 布拉佛斯
